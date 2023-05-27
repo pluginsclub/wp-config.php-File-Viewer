@@ -11,3 +11,6 @@ To simplify the process, I have created this simple WordPress plugin that displa
 Install and activate the plugin, then navigate to Tools > wp-config.php whenyou need to view it.
 
 To copy file content simply click on the “Copy Content” button on the top.
+
+![Screenshot](assets/wpconfig-screenshot.webp)
+
