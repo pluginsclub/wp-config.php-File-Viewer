@@ -1,4 +1,6 @@
-# wp-config.php-File-Viewer
+# wp-config.php File Viewer WordPress plugin
+
+![Screenshot](assets/wpconfig-file-viewer-wordpress-plugin.png.webp)
 
 One of the most important files in your WordPress installation is the wp-config.php file. This file is located in the root of your WordPress file directory and contains your website’s base configuration details, such as database connection information.
 
