@@ -10,7 +10,7 @@ To view the content of the wp-config.php file you need to login to the server ei
 
 To simplify the process, I have created this simple WordPress plugin that displays the wp-config.php file and allows a user to copy its content.
 
-Install and activate the plugin, then navigate to Tools > wp-config.php whenyou need to view it.
+Install and activate the plugin, then navigate to **Tools > wp-config.php** when you need to view it.
 
 To copy file content simply click on the “Copy Content” button on the top.
 
